@@ -12,4 +12,4 @@ $$x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}$$
 $$\frac{7x+5}{1+y^2}$$
 \\(l(x_i) = - \log_2 P(x_i)\\)
 
-<img src="http://www.forkosh.com/mathtex.cgi? \Large x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}">
+<img src="https://latex.codecogs.com/gif.latex?\frac{\partial%20J}{\partial%20\theta_k^{(j)}}=\sum_{i:r(i,j)=1}{\big((\theta^{(j)})^Tx^{(i)}-y^{(i,j)}\big)x_k^{(i)}}+\lambda%20\theta_k^{(j)}">
